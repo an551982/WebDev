@@ -7,5 +7,6 @@ h1 {
 }
 
 #middle {
-    display: inline;
+    /*display: inline;*/
+    display: block;
 }
